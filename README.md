@@ -18,10 +18,11 @@ Firebase Auth Phone
 Api Cloudinary Imágenes
 
 
-Video en Youtbe
+Video en YouTube
+
 https://www.youtube.com/watch?v=-fg6PB8hNQc
 
-Siguenos en nuestra canal de yotube para seguir subiendo proyectos.
+Síguenos en nuestra canal de YouTube para seguir subiendo proyectos.
 
 Es muy importante que nuestra app esté optimizada 
 en cuanto a las peticiones hacia nuestra DB,
