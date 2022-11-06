@@ -1,7 +1,12 @@
 Aplicación para tramitadores 
+
+
 Función de la App: 
+
 Verificar si el usuario está registrado.
- Banner animado Verificador de permisos Perfil de usuario Lista de pedidos Registro de usuario por medio de OTP firebase Auth 
+
+ Banner animado Verificador de permisos Perfil de usuario 
+ Lista de pedidos Registro de usuario por medio de OTP firebase Auth 
 Funcionalidad de la app: servicio de trámites vehiculares 
 
 Desarrollado con: 
@@ -16,14 +21,18 @@ Api Cloudinary Imágenes
 Video en Youtbe
 https://www.youtube.com/watch?v=-fg6PB8hNQc
 
+Siguenos en nuestra canal de yotube para seguir subiendo proyectos.
 
-Es muy importante que nuestra app esté optimizada en cuanto a las peticiones hacia nuestra DB,
+Es muy importante que nuestra app esté optimizada 
+en cuanto a las peticiones hacia nuestra DB,
 nuestra app evitara peticiones innecesarias a nuestra DB. 
+
 El nivel gratuito de Firebase también admite hasta 100 000 conexiones simultáneas 
  Nuestra Lista de productos está optimizada para cargar cantidades grandes de productos, 
  ya que está diseñada a base de Diccionarios JSON, Load cache, esto nos permite alivianar 
  las cargas de la imagen en nuestra lista de productos y hacer más rápido la carga de nuestras cards en la pantalla de nuestro usuario  
 Nuestro Firebase Data base real, time esta muy bien optimizado, esto nos permite no hacer consultas incensarías.
+
   Regla de seguridad de nuestra Firebase Data base real time, esto evitará que cualquiera pueda ver o escribir en tu DB.  
  BANNER ANIMADO
  En nuestro banner de nuestra app podremos ingresar: 
@@ -49,4 +58,5 @@ Este proceso se repetirá y nuestro usuario tendrá que ingresar su el nombre,
 foto de usuario, clave o chasis del vehículo y foto del documento del vehículo. 
 Para finalizar el trámite nuestro usuario nos podrá dejar una nota. Nuestro Servicio 
 de trámites vehiculares verificará que las 4 fotos y los 5 campos de texto no estén vacíos, 
-de lo contrario la app responderá indicando que documento hace falta
+de lo contrario la app responderá indicando que documento hace falta.
+
