@@ -12,6 +12,11 @@ Firebase Data base real timé
 Firebase Auth Phone  
 Api Cloudinary Imágenes
 
+
+Video en Youtbe
+https://www.youtube.com/watch?v=-fg6PB8hNQc
+
+
 Es muy importante que nuestra app esté optimizada en cuanto a las peticiones hacia nuestra DB,
 nuestra app evitara peticiones innecesarias a nuestra DB. 
 El nivel gratuito de Firebase también admite hasta 100 000 conexiones simultáneas 
